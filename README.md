@@ -23,7 +23,7 @@ The library provides the following information:
 To use TVD, just add the script tag in your HTML file.
 
 ```sh
-    <script src="vindecode.min.js" charset="utf-8"></script>
+    <script src="vindecoder.min.js" charset="utf-8"></script>
 ```
 
 For production environments...
